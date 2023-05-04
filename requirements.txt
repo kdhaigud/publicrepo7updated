@@ -1,4 +1,4 @@
-django==1.4.11
-flask==1.0
+django==3.2.19
+flask==2.2.5
 requests==2.20
 tornado==3.2.2
